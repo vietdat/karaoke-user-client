@@ -11,6 +11,9 @@ React frontend for a karaoke app.
 
 - JavaScript
 - React
+- React Bootstrap
+- Bootstrap
+- Semantic UI React
 
 ## Run it
 
@@ -23,4 +26,4 @@ npm start
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Unlicense — see [LICENSE](LICENSE).
